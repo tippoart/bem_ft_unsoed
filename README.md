@@ -1,2 +1,2 @@
-project freelance untuk membuat landig page bem salah satu universitas indonesia
+project freelance untuk membuat landing page bem salah satu universitas indonesia
 ![Flowchart Sistem](images/diagram.png)
